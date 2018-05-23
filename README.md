@@ -21,7 +21,7 @@ Common use cases:
 Build the latest version.
 
 ```bash
-$ go get -u github.com/mmatczuk/go-http-tunnel/cmd/...
+$ go get -u github.com/zeroomega/go-http-tunnel/cmd/...
 ```
 
 Alternatively [download the latest release](https://github.com/mmatczuk/go-http-tunnel/releases/latest).
