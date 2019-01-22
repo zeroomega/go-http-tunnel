@@ -13,8 +13,8 @@ import (
 	"time"
 
 	"github.com/golang/mock/gomock"
-	"github.com/mmatczuk/go-http-tunnel/proto"
-	"github.com/mmatczuk/go-http-tunnel/tunnelmock"
+	"github.com/zeroomega/go-http-tunnel/proto"
+	"github.com/zeroomega/go-http-tunnel/tunnelmock"
 )
 
 func TestClient_Dial(t *testing.T) {
